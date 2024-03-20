@@ -1,0 +1,12 @@
+com.example.praktikum_04_layouting.app-main-0 C:\Pemrograman Perangkat Bergerak\21102232_TI2_ppb2324_2\praktikum_04_layouting\android\app\src\main\res
+com.example.praktikum_04_layouting.app-release-1 C:\Pemrograman Perangkat Bergerak\21102232_TI2_ppb2324_2\praktikum_04_layouting\android\app\src\release\res
+com.example.praktikum_04_layouting.app-pngs-2 C:\Pemrograman Perangkat Bergerak\21102232_TI2_ppb2324_2\praktikum_04_layouting\build\app\generated\res\pngs\release
+com.example.praktikum_04_layouting.app-resValues-3 C:\Pemrograman Perangkat Bergerak\21102232_TI2_ppb2324_2\praktikum_04_layouting\build\app\generated\res\resValues\release
+com.example.praktikum_04_layouting.app-rs-4 C:\Pemrograman Perangkat Bergerak\21102232_TI2_ppb2324_2\praktikum_04_layouting\build\app\generated\res\rs\release
+com.example.praktikum_04_layouting.app-mergeReleaseResources-5 C:\Pemrograman Perangkat Bergerak\21102232_TI2_ppb2324_2\praktikum_04_layouting\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.praktikum_04_layouting.app-mergeReleaseResources-6 C:\Pemrograman Perangkat Bergerak\21102232_TI2_ppb2324_2\praktikum_04_layouting\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.praktikum_04_layouting.app-merged_res-7 C:\Pemrograman Perangkat Bergerak\21102232_TI2_ppb2324_2\praktikum_04_layouting\build\app\intermediates\merged_res\release
+com.example.praktikum_04_layouting.app-jetified-window-java-1.0.0-beta04-8 C:\Users\Lenovo LOQ\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.praktikum_04_layouting.app-core-1.6.0-9 C:\Users\Lenovo LOQ\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.praktikum_04_layouting.app-jetified-annotation-experimental-1.1.0-10 C:\Users\Lenovo LOQ\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.praktikum_04_layouting.app-jetified-window-1.0.0-beta04-11 C:\Users\Lenovo LOQ\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
