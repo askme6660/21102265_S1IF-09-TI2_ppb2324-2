@@ -4,7 +4,7 @@ import 'package:praktikum_3/view/add_contact_screen.dart';
 import 'package:praktikum_3/view_model/contact_cubit.dart';
 
 class HomeScreen extends StatelessWidget {
-  const HomeScreen({Key? key}) : super(key: key);
+  const HomeScreen({super.key});
 
   @override
   Widget build(BuildContext context) {

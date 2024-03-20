@@ -5,7 +5,7 @@ import '../view_model/contact_cubit.dart';
 import 'home_screen.dart';
 
 class AddContactScreen extends StatefulWidget {
-  const AddContactScreen({Key? key}) : super(key: key);
+  const AddContactScreen({super.key});
 
   @override
   State<AddContactScreen> createState() => _AddContactScreenState();
