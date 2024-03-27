@@ -1,14 +1,14 @@
 <lint-module
     format="1"
-    dir="C:\Pemrograman Perangkat Bergerak\21102232_TI2_ppb2324_2\praktikum_04_layouting\android\app"
+    dir="D:\ofa\PPb\21102265_S1IF-09-TI2_ppb2324-2\praktikum_04_layout\android\app"
     name=":app"
     type="APP"
     maven="android:app:"
     gradle="7.2.0"
-    buildFolder="C:\Pemrograman Perangkat Bergerak\21102232_TI2_ppb2324_2\praktikum_04_layouting\build\app"
-    bootClassPath="C:\AndroidSDK\platforms\android-33\android.jar;C:\AndroidSDK\build-tools\30.0.3\core-lambda-stubs.jar"
+    buildFolder="D:\ofa\PPb\21102265_S1IF-09-TI2_ppb2324-2\praktikum_04_layout\build\app"
+    bootClassPath="C:\Users\arkan\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\arkan\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
     javaSourceLevel="1.8"
-    compileTarget="android-33">
+    compileTarget="android-34">
   <lintOptions
       abortOnError="true"
       absolutePaths="true"

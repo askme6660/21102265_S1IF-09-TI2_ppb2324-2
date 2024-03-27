@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.praktikum_04_layouting.app-mergeReleaseResources-5:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.praktikum_04_layouting.app-mergeReleaseResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Pemrograman Perangkat Bergerak\\21102232_TI2_ppb2324_2\\praktikum_04_layouting\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\ofa\\PPb\\21102265_S1IF-09-TI2_ppb2324-2\\praktikum_04_layout\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
